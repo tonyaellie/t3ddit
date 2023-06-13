@@ -13,8 +13,8 @@ module.exports = {
     themes: [
       {
         light: {
-          primary: "#3CB371",
-          secondary: "#7B68EE",
+          primary: "#BB33FF",
+          secondary: "#33BBFF",
           accent: "#BDB76B",
           neutral: "#A9A9A9",
           "base-100": "#EAEAEA",
@@ -24,8 +24,8 @@ module.exports = {
           error: "#B22222",
         },
         dark: {
-          primary: "#33975D",
-          secondary: "#695DCB",
+          primary: "#BB33FF",
+          secondary: "#33BBFF",
           accent: "#A29B5C",
           neutral: "#222222",
           "base-100": "#151515",
